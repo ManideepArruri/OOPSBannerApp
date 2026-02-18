@@ -2,7 +2,7 @@
 // @author Developer
 // @version 4
 
-class UcFour{
+class OOPSBannerAppUcFour{
 	public static void main(String[] args){
 		String[] lines = new String[5];
 		lines[0] = String.join(" ","  ***   "    ,"  ***    "  ,"***  " ,"  ****");
